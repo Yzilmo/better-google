@@ -1,2 +1,2 @@
 # better-google
-make the google.com more likable
+make google.com more likable
